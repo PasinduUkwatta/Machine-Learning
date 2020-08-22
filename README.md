@@ -1,1 +1,1 @@
-# Machine-Learning -  fundamental practise on Machine Learning
+# Machine-Learning -  Fundamental Practise on Machine Learning
